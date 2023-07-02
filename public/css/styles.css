@@ -1499,3 +1499,15 @@ a.page-link,
 .StripeElement--webkit-autofill {
   background-color: #fefde5 !important;
 }
+
+
+header nav.fixed-top.bg-dark .navbar-nav li a:not(.btn) {
+    color: black!important;
+}
+
+header nav.fixed-top.bg-dark {
+
+    backdrop-filter: blur(10px);
+    background: rgb(255 255 255 / 72%)!important;
+
+}
