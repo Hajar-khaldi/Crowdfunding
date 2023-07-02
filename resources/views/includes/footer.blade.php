@@ -72,7 +72,7 @@
 
     <div class="col-md-3">
       <a href="{{ url('/') }}">
-        <img src="{{ asset('public/img/watermark.png') }}">
+        <img src="{{ asset('public/img/watermark.png') }}" class="mb-4">
       </a>
       <p class="text-muted">{{ $settings->description }}</p>
     </div>
