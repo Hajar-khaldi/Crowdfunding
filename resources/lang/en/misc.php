@@ -340,7 +340,7 @@ return array(
 	'branch_address' => 'Branch Address',
 	'account_name' => 'Account Name',
 	'iban' => 'IBAN',
-	'approve_donation' => 'Approve Donation',
+	'approve_donation' => 'Approved Donation',
 	'make_payment_bank' => 'Make your payment directly to our bank account.',
 	'no_deadline' => 'No deadline',
 
