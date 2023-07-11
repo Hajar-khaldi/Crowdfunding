@@ -9,14 +9,14 @@ return array(
 	|
 	*/
 
-	"error_404"         => "404 Page not found",
-	"error_403"         => "Error 403",
-	"error_406"         => "Error 406",
+	"error_404"         => "404 Page non trouvée",
+	"error_403"         => "Erreur 403",
+	"error_406"         => "Erreur 406",
 
-	"error_404_description"         => "Oops! Page not found.",
-	"error_404_subdescription"      => "Sorry, that page does not found!",
-	"error_403_description"         => "Sorry, access forbidden!",
-	"error_406_description"         => "Sorry, not acceptable!",
+	"error_404_description"         => "Oops! Page non trouvée.",
+	"error_404_subdescription"      => "Désolé, cette page est introuvable !",
+	"error_403_description"         => "Désolé, accès interdit!",
+	"error_406_description"         => "Désolé, accès interdit!",
 
 	/*
 	|--------------------------------------------------------------------------
@@ -25,11 +25,11 @@ return array(
 	|
 	*/
 
-	"error_user_banned"         => "Sorry, This user has been banned!",
-	"error_user_delete"         => "Sorry, This user has been deleted!",
-	"go_home"                   => "Go to home page",
+	"error_user_banned"         => "Désolé, cet utilisateur a été banni!",
+	"error_user_delete"         => "Désolé, cet utilisateur a été supprimé!",
+	"go_home"                   => "Aller à la page d'accueil",
 
-	"error_required_mail" => "Error! Your email is required, Go to app settings and delete our app and try again",
-	"mail_exists" => 'Error! the email is already in use by another user.',
+	"error_required_mail" => "Erreur! Votre e-mail est requis, allez dans les paramètres de l'application et supprimez notre application et réessayez",
+	"mail_exists" => 'Erreur! l\'e-mail est déjà utilisé par un autre utilisateur.',
 
 );
